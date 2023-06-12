@@ -18,3 +18,4 @@
 => nếu mà chạy 1 câu lệnh = medium thì có thể chạy tối đa 1 lần/ 3 tiếng/ 1 tháng
 - Large: tốn 20 credits 1 lần chạy, chạy nhanh hơn large
 - Nếu chạy query có param nhưng không điền param thì nó sẽ chạy với default params được set sẵn trong query trên dune
+- Test query (get last n transaction of address): https://dune.com/queries/2619279
